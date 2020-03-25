@@ -1,0 +1,11 @@
+{
+  "name": "sidebar-ui",
+  "version": "1.0.0",
+  "description": "HTM5 and CSS3,Jquery Sidebar",
+  "main": "index.hmtl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Modder182",
+  "license": "MIT"
+}
